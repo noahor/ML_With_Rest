@@ -1,0 +1,1 @@
+tensorboard --logdir C:\Users\oron.noah\Documents\MY_ML\logs
